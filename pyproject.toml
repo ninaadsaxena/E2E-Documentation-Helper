@@ -1,0 +1,22 @@
+[project]
+name = "documentation-helper-e2e"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.13.5",
+    "black>=25.9.0",
+    "langchain>=0.3.27",
+    "langchain-chroma>=0.2.6",
+    "langchain-community>=0.3.29",
+    "langchain-huggingface>=0.3.1",
+    "langchain-ollama>=0.3.8",
+    "langchain-pinecone>=0.2.12",
+    "langchain-tavily>=0.2.11",
+    "langchainhub>=0.1.21",
+    "python-dotenv>=1.1.1",
+    "sentence-transformers>=5.1.1",
+    "streamlit>=1.50.0",
+    "transformers>=4.56.2",
+]
