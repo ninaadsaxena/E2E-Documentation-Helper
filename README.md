@@ -1,4 +1,4 @@
-# Documentation Helper E2E
+# End-To-End Documentation Hepler
 
 A comprehensive end-to-end documentation helper system that crawls, processes, and provides intelligent question-answering capabilities over LangChain documentation using advanced RAG (Retrieval-Augmented Generation) architecture.
 
